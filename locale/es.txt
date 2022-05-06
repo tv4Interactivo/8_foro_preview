@@ -3,7 +3,7 @@
 ## Hotspot
 
 ### URL
-overlay_2E670989_0A47_301C_4186_D358D348E33A.url = //www.youtube.com/embed/5qap5aO4i9A
+overlay_2E670989_0A47_301C_4186_D358D348E33A.url = https://www.conceptoweb-studio.com/radio/video/tv4/
 
 ## Media
 
@@ -11,22 +11,26 @@ overlay_2E670989_0A47_301C_4186_D358D348E33A.url = //www.youtube.com/embed/5qap5
 audiores_1CEF70C3_09FB_F013_4180_86A2314D7F5E.mp3Url = media/audio_1D904B98_09FB_503C_4199_CB206E87F8CC_es.mp3
 
 ### Imágen
-imlevel_105D9C27_1F7A_A9DE_4199_C0EBF0C47464.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_0.jpg
-imlevel_105D9C27_1F7A_A9DE_4199_C0EBF0C47464.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_0.jpg
-imlevel_105D8C27_1F7A_A9DE_41B4_583387D6F486.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_1.jpg
-imlevel_105D8C27_1F7A_A9DE_41B4_583387D6F486.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_1.jpg
-imlevel_105DFC27_1F7A_A9DE_4186_535C2BF10983.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_2.jpg
-imlevel_105DFC27_1F7A_A9DE_4186_535C2BF10983.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_2.jpg
-imlevel_105DDC28_1F7A_A9D2_41BE_23E366C1D368.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_3.jpg
-imlevel_105DDC28_1F7A_A9D2_41BE_23E366C1D368.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_3.jpg
-imlevel_105DCC28_1F7A_A9D2_419A_0A81A3C05DA4.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_4.jpg
-imlevel_105DCC28_1F7A_A9D2_419A_0A81A3C05DA4.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_4.jpg
+imlevel_8148D4AC_9B39_3A96_41B4_BD6B6B6295C9.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_0.jpg
+imlevel_8148D4AC_9B39_3A96_41B4_BD6B6B6295C9.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_0.jpg
+imlevel_8148A4AC_9B39_3A96_41D2_A1FB3A1924CF.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_1.jpg
+imlevel_8148A4AC_9B39_3A96_41D2_A1FB3A1924CF.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_1.jpg
+imlevel_814884AC_9B39_3A96_41B0_1BB8E616F2E8.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_2.jpg
+imlevel_814884AC_9B39_3A96_41B0_1BB8E616F2E8.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_2.jpg
+imlevel_814864AC_9B39_3A96_41D3_F4300E3B69A2.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_3.jpg
+imlevel_814864AC_9B39_3A96_41D3_F4300E3B69A2.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_3.jpg
+imlevel_814874AC_9B39_3A96_41B3_CA640EAA6586.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_4.jpg
+imlevel_814874AC_9B39_3A96_41B3_CA640EAA6586.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_4.jpg
 
 ### Popup Imágen
 
 ### Título
 panorama_0D25750B_001A_575C_4124_4063893436A4.label = Auditorio
-panorama_1222DE67_1F36_F7A3_4169_F1A1248119BE.label = Stands 1
+album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD_0.label = BOTAS-CABORCA-VAQUERA-BORDADO-FLORES-_3_-min_1024x1024
+album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD_1.label = BOTAS-CABORCA-VAQUERA-CAFE_3_-min_grande
+album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD_2.label = MAA593AMERCIATAN01_1024x1024
+panorama_970EC530_9A98_A2BF_41A6_D93D7055443C.label = Stands 1
+album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD.label = Álbum de Fotos BOTAS-CABORCA-VAQUERA-BORDADO-FLORES-_3_-min_1024x1024
 
 ## Skin
 
@@ -41,6 +45,10 @@ Button_088FFE0B_0487_BB87_4149_E53DC09943CC_mobile.label = Programa
 ### Imágen
 Image_179D8AC7_046F_0E67_414A_CA6ED15F42DE.url = skin/Image_179D8AC7_046F_0E67_414A_CA6ED15F42DE_es.png
 Image_179D8AC7_046F_0E67_414A_CA6ED15F42DE_mobile.url = skin/Image_179D8AC7_046F_0E67_414A_CA6ED15F42DE_mobile_es.png
+
+### Texto Multilínea
+HTMLText_8F44F192_9AC9_1AB2_41B7_52BB14E796B3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>Caborca Group</B></SPAN></SPAN></DIV></div>
+HTMLText_8F44F192_9AC9_1AB2_41B7_52BB14E796B3_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;font-family:'Red Hat Display ExtraBold';"><B>Caborca Group</B></SPAN></SPAN></DIV></div>
 
 ## Tour
 
