@@ -11,16 +11,16 @@ overlay_DD80F706_D3B3_2B39_41E7_04B904942646.url = https://www.conceptoweb-studi
 audiores_1CEF70C3_09FB_F013_4180_86A2314D7F5E.mp3Url = media/audio_1D904B98_09FB_503C_4199_CB206E87F8CC_es.mp3
 
 ### Imágen
-imlevel_C4343876_D41F_4584_41D2_2A1AFDAAB221.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_0.jpg
-imlevel_C4343876_D41F_4584_41D2_2A1AFDAAB221.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_0.jpg
-imlevel_C4342876_D41F_4584_41E0_4B7D69548D83.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_1.jpg
-imlevel_C4342876_D41F_4584_41E0_4B7D69548D83.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_1.jpg
-imlevel_C4340876_D41F_4584_41E6_EC261ED08A03.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_2.jpg
-imlevel_C4340876_D41F_4584_41E6_EC261ED08A03.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_2.jpg
-imlevel_C434E876_D41F_4584_41C3_A51CF63DBB4B.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_3.jpg
-imlevel_C434E876_D41F_4584_41C3_A51CF63DBB4B.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_3.jpg
-imlevel_C43AE878_D41F_458C_41B7_4EF12FDD827E.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_4.jpg
-imlevel_C43AE878_D41F_458C_41B7_4EF12FDD827E.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_4.jpg
+imlevel_C9FA3472_DDDE_72D4_41A8_654220CC1E6D.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_0.jpg
+imlevel_C9FA3472_DDDE_72D4_41A8_654220CC1E6D.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_0.jpg
+imlevel_C9FA0472_DDDE_72D4_41E4_44B6029804F2.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_1.jpg
+imlevel_C9FA0472_DDDE_72D4_41E4_44B6029804F2.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_1.jpg
+imlevel_C9FA1472_DDDE_72D4_41D1_23B420C6C5BC.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_2.jpg
+imlevel_C9FA1472_DDDE_72D4_41D1_23B420C6C5BC.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_2.jpg
+imlevel_C9FA7472_DDDE_72D4_41D5_5E05743892E6.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_3.jpg
+imlevel_C9FA7472_DDDE_72D4_41D5_5E05743892E6.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_3.jpg
+imlevel_C9F97472_DDDE_72D4_41DB_B05B6FCB9C9C.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_4.jpg
+imlevel_C9F97472_DDDE_72D4_41DB_B05B6FCB9C9C.url = media/zoomImage_10B20A46_04B7_333B_418B_30432308CC72_es_0_4.jpg
 
 ### Popup Imágen
 
@@ -30,10 +30,14 @@ album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD_0.label = BOTAS-CABORCA-VAQUERA-BORDA
 photo_96200E80_9B5C_97AD_41E3_554021911D04.label = BOTAS-CABORCA-VAQUERA-CAFE_2_-min_grande
 photo_96200E80_9B5C_97AD_41E3_554021911D04.label = BOTAS-CABORCA-VAQUERA-CAFE_2_-min_grande
 panorama_DFE318B5_D352_6F44_41E5_25B6608D7778.label = Intersección 1
+panorama_D2EFD26B_D942_68C8_41EB_0F96C51D9DB6.label = Intersección 2
 album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD_2.label = MAA593AMERCIATAN01_1024x1024
 panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036.label = Stands 1
 panorama_B385E8D8_BF3E_D6BF_41E1_C88377D7680F.label = Stands 2
-panorama_D9A58538_D352_614C_41E3_7C820EE0DBD8.label = Stands 3
+panorama_CF0BD305_DDD2_F63C_41C2_B1F1E8C01BCF.label = Stands 3
+panorama_D560EA31_D942_5858_41E9_845B6E6D9CAA.label = Stands 4
+panorama_D2F057FC_D942_77C8_41E2_4C487A255957.label = Stands 5
+panorama_D15FFD47_DDD2_723C_41E7_8BC707B2A6E0.label = Stands 7
 album_A72DB173_BF42_5670_41CF_5909A643EBEA_0.label = amstel_prev
 album_C1AADAC4_D352_20C4_41E9_ECB4C657308B_0.label = cinturato_front
 album_A72DB173_BF42_5670_41CF_5909A643EBEA_1.label = heineken_prev
@@ -61,7 +65,10 @@ Image_179D8AC7_046F_0E67_414A_CA6ED15F42DE.url = skin/Image_179D8AC7_046F_0E67_4
 Image_179D8AC7_046F_0E67_414A_CA6ED15F42DE_mobile.url = skin/Image_179D8AC7_046F_0E67_414A_CA6ED15F42DE_mobile_es.png
 
 ### Texto Multilínea
+HTMLText_CF53EB94_DD89_74DF_41E3_516730A58550.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>Ixaya</B></SPAN></SPAN></DIV></div>
+HTMLText_CFE6F0E3_DD89_B479_41DE_F0090C2001D5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>KPMG</B></SPAN></SPAN></DIV></div>
 HTMLText_C230D683_D35E_233C_41E8_A0F10681D35D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>Kansas City Southern de México</B></SPAN></SPAN></DIV></div>
+HTMLText_CDA328B8_DDD6_3253_41D3_3900EF1D0758.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>LTS</B></SPAN></SPAN></DIV></div>
 HTMLText_A359513D_BF4D_D7F1_41D2_CAE77555ED79.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>TvCuatro</B></SPAN></SPAN></DIV></div>
 HTMLText_A5DE9AA0_BF42_AA8F_41DE_6BBAE3157B2F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>USMCOC - CPLB</B></SPAN></SPAN></DIV></div>
 HTMLText_8F44F192_9AC9_1AB2_41B7_52BB14E796B3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>Caborca Group</B></SPAN></SPAN></DIV></div>
@@ -71,6 +78,9 @@ HTMLText_CBBAD7C6_D372_20C4_41E0_27FCEA0E83BE_mobile.html = <div style="text-ali
 HTMLText_8F44F192_9AC9_1AB2_41B7_52BB14E796B3_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;font-family:'Red Hat Display ExtraBold';"><B>Caborca Group</B></SPAN></SPAN></DIV></div>
 HTMLText_A105F95D_BF42_F7B1_41DE_2BFDB669F53B_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;font-family:'Red Hat Display ExtraBold';"><B>Heineken</B></SPAN></SPAN></DIV></div>
 HTMLText_CA29FCB9_D372_274C_41E0_514C8758A6D7_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;font-family:'Red Hat Display ExtraBold';"><B>Pirelli</B></SPAN></SPAN></DIV></div>
+HTMLText_CFB6CC8E_DD8A_8CCB_41E4_EAB42B7A8198_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:22px;font-family:'Red Hat Display ExtraBold';"><B>Ixaya</B></SPAN></SPAN></DIV></div>
+HTMLText_CFD17838_DD8B_B3D7_41EA_A35CC80C9F82_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:22px;font-family:'Red Hat Display ExtraBold';"><B>KPMG</B></SPAN></SPAN></DIV></div>
+HTMLText_CCD03F2F_DDD7_CE4C_41E8_82AC149F44D7_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:22px;font-family:'Red Hat Display ExtraBold';"><B>LTS</B></SPAN></SPAN></DIV></div>
 HTMLText_A359513D_BF4D_D7F1_41D2_CAE77555ED79_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:22px;font-family:'Red Hat Display ExtraBold';"><B>TvCuatro</B></SPAN></SPAN></DIV></div>
 HTMLText_A1EC4545_BF4E_5F90_41BD_CE12B49704E7_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:22px;font-family:'Red Hat Display ExtraBold';"><B>USMCOC-CPLB</B></SPAN></SPAN></DIV></div>
 
