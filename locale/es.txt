@@ -3,6 +3,7 @@
 ## Acción
 
 ### PDF
+PopupPDFBehaviour_077468C7_1622_A8A4_4181_0DDD8711FF60.url = files/Agenda%20%20VIII%20Foro%20Internacional%20de%20Sustentabilidad%2029-05_es.pdf
 PopupPDFBehaviour_1999F2B1_1622_B8FC_418A_1620EE0BC578.url = files/Agenda%20%20VIII%20Foro%20Internacional%20de%20Sustentabilidad%2029-05_es.pdf
 
 ## Hotspot
@@ -14,15 +15,6 @@ overlay_DD80F706_D3B3_2B39_41E7_04B904942646.url = https://www.conceptoweb-studi
 
 ### Audio
 audiores_1CEF70C3_09FB_F013_4180_86A2314D7F5E.mp3Url = media/audio_1D904B98_09FB_503C_4199_CB206E87F8CC_es.mp3
-
-### Imágen
-imlevel_07795873_162E_A87C_4189_6F4BA1B786EC.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_0.jpg
-imlevel_07793873_162E_A87C_4196_DD24796F78E2.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_1.jpg
-imlevel_0779E873_162E_A87C_419F_563F211F33F3.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_2.jpg
-imlevel_0779F873_162E_A87C_41B2_5822C589B25B.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_3.jpg
-imlevel_077BF873_162E_A87C_417F_5E53F7990094.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_4.jpg
-
-### Popup Imágen
 
 ### Título
 panorama_DD80B706_D3B3_2B39_41E4_72689895B132.label = Auditorio
