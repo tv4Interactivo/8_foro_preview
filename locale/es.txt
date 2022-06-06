@@ -3,8 +3,8 @@
 ## Acción
 
 ### PDF
-PopupPDFBehaviour_077468C7_1622_A8A4_4181_0DDD8711FF60.url = files/Agenda%20%20VIII%20Foro%20Internacional%20de%20Sustentabilidad%2029-05_es.pdf
 PopupPDFBehaviour_1999F2B1_1622_B8FC_418A_1620EE0BC578.url = files/Agenda%20%20VIII%20Foro%20Internacional%20de%20Sustentabilidad%2029-05_es.pdf
+PopupPDFBehaviour_077468C7_1622_A8A4_4181_0DDD8711FF60.url = files/Agenda%20%20VIII%20Foro%20Internacional%20de%20Sustentabilidad%2029-05_es.pdf
 
 ## Hotspot
 
@@ -17,20 +17,21 @@ overlay_DD80F706_D3B3_2B39_41E7_04B904942646.url = https://www.conceptoweb-studi
 audiores_1CEF70C3_09FB_F013_4180_86A2314D7F5E.mp3Url = media/audio_1D904B98_09FB_503C_4199_CB206E87F8CC_es.mp3
 
 ### Título
+video_37A95DFA_3A45_BF0C_41CC_3EE8711EB91C.label = #EstoEsTv4_compress
 panorama_DD80B706_D3B3_2B39_41E4_72689895B132.label = Auditorio
 album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD_0.label = BOTAS-CABORCA-VAQUERA-BORDADO-FLORES-_3_-min_1024x1024
 photo_96200E80_9B5C_97AD_41E3_554021911D04.label = BOTAS-CABORCA-VAQUERA-CAFE_2_-min_grande
 photo_96200E80_9B5C_97AD_41E3_554021911D04.label = BOTAS-CABORCA-VAQUERA-CAFE_2_-min_grande
 panorama_DFE318B5_D352_6F44_41E5_25B6608D7778.label = Intersección 1
-panorama_D2EFD26B_D942_68C8_41EB_0F96C51D9DB6.label = Intersección 2
+panorama_24BAD5FA_2B63_30D3_41A2_ED992940C389.label = Intersección 2
 album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD_2.label = MAA593AMERCIATAN01_1024x1024
 panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036.label = Stands 1
 panorama_B385E8D8_BF3E_D6BF_41E1_C88377D7680F.label = Stands 2
 panorama_CF0BD305_DDD2_F63C_41C2_B1F1E8C01BCF.label = Stands 3
 panorama_D560EA31_D942_5858_41E9_845B6E6D9CAA.label = Stands 4
-panorama_D2F057FC_D942_77C8_41E2_4C487A255957.label = Stands 5
-panorama_D21FFB89_DE47_E928_41E1_DA7E646DB311.label = Stands 6
-panorama_D15FFD47_DDD2_723C_41E7_8BC707B2A6E0.label = Stands 7
+panorama_25121649_2B61_3331_41C0_B042174DAEAE.label = Stands 5
+panorama_25CCC639_2B6E_F35E_41A6_4E36E9AB2279.label = Stands 6
+panorama_25C6CDEA_2B6E_D0F2_417D_1EA071CB7ADE.label = Stands 7
 album_A72DB173_BF42_5670_41CF_5909A643EBEA_0.label = amstel_prev
 album_C1AADAC4_D352_20C4_41E9_ECB4C657308B_0.label = cinturato_front
 album_A72DB173_BF42_5670_41CF_5909A643EBEA_1.label = heineken_prev
@@ -42,6 +43,10 @@ album_A72DB173_BF42_5670_41CF_5909A643EBEA_5.label = s_rose_prev
 album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD.label = Álbum BOTAS-CABORCA
 album_A72DB173_BF42_5670_41CF_5909A643EBEA.label = Álbum Heineken
 album_C1AADAC4_D352_20C4_41E9_ECB4C657308B.label = Álbum Pirelli
+
+### Video
+videolevel_266F3CEE_3A7C_BD04_41BD_84E86B0F5612.url = media/video_37A95DFA_3A45_BF0C_41CC_3EE8711EB91C_es.mp4
+videolevel_266F3CEE_3A7C_BD04_41BD_84E86B0F5612.posterURL = media/video_37A95DFA_3A45_BF0C_41CC_3EE8711EB91C_poster_es.jpg
 
 ## Skin
 
@@ -63,6 +68,7 @@ Image_376B092F_24F0_A932_41C2_55E05C5773D8_mobile.url = skin/Image_376B092F_24F0
 HTMLText_2B73024F_24F0_FB72_41A5_BC37D52E0CE2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:16px;font-family:'Red Hat Display Medium';"><B>Somos la comunidad líder en consulta estratégica y vinculación para el desarrollo de las organizaciones industriales en México.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:16px;font-family:'Red Hat Display Medium';"><B>Strategic Sourcing: Cumple con tu proyecto de abastecimiento automotriz en México. Te ayudamos a encontrar proveedores potenciales y cotizaciones atractivas.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:16px;font-family:'Red Hat Display Medium';"><B>Nuestros servicios de abastecimiento especializados en México permiten a las empresas de EE. UU. y Canadá encontrar proveedores confiables y responsables a través del trabajo de nuestro equipo de inteligencia. Obtenga cotizaciones atractivas para todos sus proyectos industriales localizados en México.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_2B73024F_24F0_FB72_41A5_BC37D52E0CE2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:12px;font-family:'Red Hat Display Medium';"><B>Somos la comunidad líder en consulta estratégica y vinculación para el desarrollo de las organizaciones industriales en México.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:12px;font-family:'Red Hat Display Medium';"><B>Strategic Sourcing: Cumple con tu proyecto de abastecimiento automotriz en México. </B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:12px;font-family:'Red Hat Display Medium';"><B>Te ayudamos a encontrar proveedores potenciales y cotizaciones atractivas.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:12px;font-family:'Red Hat Display Medium';"><B>Nuestros servicios de abastecimiento especializados en México permiten a las empresas de EE. UU. y Canadá encontrar proveedores confiables y responsables a través del trabajo de nuestro equipo de inteligencia. Obtenga cotizaciones atractivas para todos sus proyectos industriales localizados en México.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:8px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_2A0E82FC_24F0_9B16_41AC_49889697C17B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>Cluster Industrial</B></SPAN></SPAN></DIV></div>
+HTMLText_29A0C82D_3A24_6A74_41BE_D0C0713E4A8F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>Innova Inmobiliaria</B></SPAN></SPAN></DIV></div>
 HTMLText_CF53EB94_DD89_74DF_41E3_516730A58550.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>Ixaya</B></SPAN></SPAN></DIV></div>
 HTMLText_CFE6F0E3_DD89_B479_41DE_F0090C2001D5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>KPMG</B></SPAN></SPAN></DIV></div>
 HTMLText_C230D683_D35E_233C_41E8_A0F10681D35D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>Kansas City Southern de México</B></SPAN></SPAN></DIV></div>
@@ -74,6 +80,7 @@ HTMLText_A896AEDB_BF5E_6AB1_41E1_0C7A350720D2.html = <div style="text-align:left
 HTMLText_C3DE951F_D35E_E144_41BA_7C079FD018AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>Pirelli</B></SPAN></SPAN></DIV></div>
 HTMLText_CBBAD7C6_D372_20C4_41E0_27FCEA0E83BE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:18px;font-family:'Red Hat Display ExtraBold';"><B>Kansas City Southern de México</B></SPAN></SPAN></DIV></div>
 HTMLText_2A0E82FC_24F0_9B16_41AC_49889697C17B_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:21px;font-family:'Red Hat Display ExtraBold';"><B>Cluster Industrial</B></SPAN></SPAN></DIV></div>
+HTMLText_2EBFE897_3A24_6A54_41A1_252E0BC69C85_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:21px;font-family:'Red Hat Display ExtraBold';"><B>Innova Inmobiliaria</B></SPAN></SPAN></DIV></div>
 HTMLText_8F44F192_9AC9_1AB2_41B7_52BB14E796B3_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;font-family:'Red Hat Display ExtraBold';"><B>Caborca Group</B></SPAN></SPAN></DIV></div>
 HTMLText_A105F95D_BF42_F7B1_41DE_2BFDB669F53B_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;font-family:'Red Hat Display ExtraBold';"><B>Heineken</B></SPAN></SPAN></DIV></div>
 HTMLText_CA29FCB9_D372_274C_41E0_514C8758A6D7_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;font-family:'Red Hat Display ExtraBold';"><B>Pirelli</B></SPAN></SPAN></DIV></div>
@@ -89,3 +96,8 @@ HTMLText_A1EC4545_BF4E_5F90_41BD_CE12B49704E7_mobile.html = <div style="text-ali
 
 ### Título
 tour.name = 8° Foro de Sustentabilidad
+
+## Ventana
+
+### Título
+window_2E0C51CF_3A5C_8704_4154_5D51A31E14BA.title = TvCuatro
