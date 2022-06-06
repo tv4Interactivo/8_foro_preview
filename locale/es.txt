@@ -8,6 +8,9 @@ PopupPDFBehaviour_077468C7_1622_A8A4_4181_0DDD8711FF60.url = files/Agenda%20%20V
 
 ## Hotspot
 
+### Texto
+HotspotPanoramaOverlayTextImage_224F5188_3AC1_6929_41B5_2D9754732176.text = Al auditorio
+
 ### URL
 overlay_DD80F706_D3B3_2B39_41E7_04B904942646.url = https://www.conceptoweb-studio.com/radio/video/tv4/
 
@@ -15,6 +18,9 @@ overlay_DD80F706_D3B3_2B39_41E7_04B904942646.url = https://www.conceptoweb-studi
 
 ### Audio
 audiores_1CEF70C3_09FB_F013_4180_86A2314D7F5E.mp3Url = media/audio_1D904B98_09FB_503C_4199_CB206E87F8CC_es.mp3
+
+### Imágen
+imlevel_26835F30_3ACF_197A_41C0_5646DA9C5365.url = media/panorama_25C6CDEA_2B6E_D0F2_417D_1EA071CB7ADE_HS_pf7k7vz8_es.png
 
 ### Título
 video_37A95DFA_3A45_BF0C_41CC_3EE8711EB91C.label = #EstoEsTv4_compress
@@ -45,8 +51,8 @@ album_A72DB173_BF42_5670_41CF_5909A643EBEA.label = Álbum Heineken
 album_C1AADAC4_D352_20C4_41E9_ECB4C657308B.label = Álbum Pirelli
 
 ### Video
-videolevel_341AA6EE_3AC1_28E9_41C2_463379604315.url = media/video_37A95DFA_3A45_BF0C_41CC_3EE8711EB91C_es.mp4
-videolevel_341AA6EE_3AC1_28E9_41C2_463379604315.posterURL = media/video_37A95DFA_3A45_BF0C_41CC_3EE8711EB91C_poster_es.jpg
+videolevel_263443E3_3ACF_291E_41A1_72CC9B98286B.url = media/video_37A95DFA_3A45_BF0C_41CC_3EE8711EB91C_es.mp4
+videolevel_263443E3_3ACF_291E_41A1_72CC9B98286B.posterURL = media/video_37A95DFA_3A45_BF0C_41CC_3EE8711EB91C_poster_es.jpg
 
 ## Skin
 
