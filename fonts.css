@@ -35,6 +35,18 @@
    font-style: italic;
 }
 @font-face {
+   font-family: "Red Hat Display Light";
+   src: url("fonts/Red Hat Display Light.woff") format("woff"), url("fonts/Red Hat Display Light.eot") format("embedded-opentype"), url("fonts/Red Hat Display Light.ttf") format("truetype"), url("fonts/Red Hat Display Light.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Red Hat Display Light";
+   src: url("fonts/Red Hat Display Light Italic.woff") format("woff"), url("fonts/Red Hat Display Light Italic.eot") format("embedded-opentype"), url("fonts/Red Hat Display Light Italic.ttf") format("truetype"), url("fonts/Red Hat Display Light Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
    font-family: "Red Hat Display Medium";
    src: url("fonts/Red Hat Display Medium.woff") format("woff"), url("fonts/Red Hat Display Medium.eot") format("embedded-opentype"), url("fonts/Red Hat Display Medium.ttf") format("truetype"), url("fonts/Red Hat Display Medium.svg") format("svg");
    font-weight: normal;
