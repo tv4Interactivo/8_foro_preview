@@ -22,7 +22,7 @@ audiores_1CEF70C3_09FB_F013_4180_86A2314D7F5E.mp3Url = media/audio_1D904B98_09FB
 
 ### Imágen
 imlevel_C4292B29_C9EB_9DAC_41DC_85D7BD0106A5.url = media/panorama_25C6CDEA_2B6E_D0F2_417D_1EA071CB7ADE_HS_pf7k7vz8_es.png
-imlevel_C7D24983_C9EB_9D5C_41C5_5134310B6CAC.url = media/panorama_C79116EA_C9A4_0ED0_41E8_7CD210B0B591_HS_qyxen66b_es.png
+imlevel_DF261FC2_CFD1_28B0_41E4_7DC88A91F5C1.url = media/panorama_C252790A_CFD3_69B0_41DD_E4F4DFFCBB35_HS_qyxen66b_es.png
 
 ### Título
 video_5A123002_491B_255E_41B9_591DB7554402.label = #EstoEsTv4_compress3
@@ -32,16 +32,17 @@ album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD_0.label = BOTAS-CABORCA-VAQUERA-BORDA
 photo_96200E80_9B5C_97AD_41E3_554021911D04.label = BOTAS-CABORCA-VAQUERA-CAFE_2_-min_grande
 photo_96200E80_9B5C_97AD_41E3_554021911D04.label = BOTAS-CABORCA-VAQUERA-CAFE_2_-min_grande
 panorama_DBE85036_C9EB_EBA4_41E4_2244C7514E81.label = Intersección 1
-panorama_C4BE3244_C9DE_FD6C_41E7_DC82F524F3CE.label = Intersección 2
+panorama_C2A0F899_CFD1_28D0_41BE_6A8EDCEB7D30.label = Intersección 2
 album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD_2.label = MAA593AMERCIATAN01_1024x1024
 panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036.label = Stands 1
 panorama_B385E8D8_BF3E_D6BF_41E1_C88377D7680F.label = Stands 2
 panorama_CF0BD305_DDD2_F63C_41C2_B1F1E8C01BCF.label = Stands 3
-panorama_C79116EA_C9A4_0ED0_41E8_7CD210B0B591.label = Stands 4
-panorama_D8117F56_C9EA_95E4_41E7_2C0B467741A8.label = Stands 5
+panorama_C252790A_CFD3_69B0_41DD_E4F4DFFCBB35.label = Stands 4
+panorama_C29F2D8E_CFA6_57BD_41E3_8848C4BA804E.label = Stands 5
 panorama_37C7B04D_3A6E_F14B_41BA_510808B96B1D.label = Stands 6
 panorama_25C6CDEA_2B6E_D0F2_417D_1EA071CB7ADE.label = Stands 7
 album_A72DB173_BF42_5670_41CF_5909A643EBEA_0.label = amstel_prev
+video_DCF6D703_CFAD_F4AB_41DF_05E8F1CA44D0.label = bofish_compressed
 album_C1AADAC4_D352_20C4_41E9_ECB4C657308B_0.label = cinturato_front
 album_A72DB173_BF42_5670_41CF_5909A643EBEA_1.label = heineken_prev
 album_A72DB173_BF42_5670_41CF_5909A643EBEA_2.label = heineken_products_preview
@@ -54,10 +55,12 @@ album_A72DB173_BF42_5670_41CF_5909A643EBEA.label = Álbum Heineken
 album_C1AADAC4_D352_20C4_41E9_ECB4C657308B.label = Álbum Pirelli
 
 ### Video
-videolevel_DA4D2B42_C9E6_9DDC_41E4_E76B3853D8ED.url = media/video_5A123002_491B_255E_41B9_591DB7554402_es.mp4
-videolevel_DA4D2B42_C9E6_9DDC_41E4_E76B3853D8ED.posterURL = media/video_5A123002_491B_255E_41B9_591DB7554402_poster_es.jpg
-videolevel_DA4C6B71_C9E6_9DBC_41BB_69C9576EE099.url = media/video_5BADFE84_493E_F35A_41B4_D90CF30D4729_es.mp4
-videolevel_DA4C6B71_C9E6_9DBC_41BB_69C9576EE099.posterURL = media/video_5BADFE84_493E_F35A_41B4_D90CF30D4729_poster_es.jpg
+videolevel_DDCB2510_CFD1_39D0_41BE_000D0E5A2562.url = media/video_5A123002_491B_255E_41B9_591DB7554402_es.mp4
+videolevel_DDCB2510_CFD1_39D0_41BE_000D0E5A2562.posterURL = media/video_5A123002_491B_255E_41B9_591DB7554402_poster_es.jpg
+videolevel_DDC9C579_CFD1_3853_41E3_2C94A64C9223.url = media/video_5BADFE84_493E_F35A_41B4_D90CF30D4729_es.mp4
+videolevel_DDC9C579_CFD1_3853_41E3_2C94A64C9223.posterURL = media/video_5BADFE84_493E_F35A_41B4_D90CF30D4729_poster_es.jpg
+videolevel_DDC865B1_CFD1_38D0_41C3_0E09D645643A.url = media/video_DCF6D703_CFAD_F4AB_41DF_05E8F1CA44D0_es.mp4
+videolevel_DDC865B1_CFD1_38D0_41C3_0E09D645643A.posterURL = media/video_DCF6D703_CFAD_F4AB_41DF_05E8F1CA44D0_poster_es.jpg
 
 ## Skin
 
@@ -78,6 +81,7 @@ Image_376B092F_24F0_A932_41C2_55E05C5773D8_mobile.url = skin/Image_376B092F_24F0
 ### Texto Multilínea
 HTMLText_2B73024F_24F0_FB72_41A5_BC37D52E0CE2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:16px;font-family:'Red Hat Display Medium';"><B>Somos la comunidad líder en consulta estratégica y vinculación para el desarrollo de las organizaciones industriales en México.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:16px;font-family:'Red Hat Display Medium';"><B>Strategic Sourcing: Cumple con tu proyecto de abastecimiento automotriz en México. Te ayudamos a encontrar proveedores potenciales y cotizaciones atractivas.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:16px;font-family:'Red Hat Display Medium';"><B>Nuestros servicios de abastecimiento especializados en México permiten a las empresas de EE. UU. y Canadá encontrar proveedores confiables y responsables a través del trabajo de nuestro equipo de inteligencia. Obtenga cotizaciones atractivas para todos sus proyectos industriales localizados en México.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_2B73024F_24F0_FB72_41A5_BC37D52E0CE2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:12px;font-family:'Red Hat Display Medium';"><B>Somos la comunidad líder en consulta estratégica y vinculación para el desarrollo de las organizaciones industriales en México.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:12px;font-family:'Red Hat Display Medium';"><B>Strategic Sourcing: Cumple con tu proyecto de abastecimiento automotriz en México. </B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:12px;font-family:'Red Hat Display Medium';"><B>Te ayudamos a encontrar proveedores potenciales y cotizaciones atractivas.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:12px;font-family:'Red Hat Display Medium';"><B>Nuestros servicios de abastecimiento especializados en México permiten a las empresas de EE. UU. y Canadá encontrar proveedores confiables y responsables a través del trabajo de nuestro equipo de inteligencia. Obtenga cotizaciones atractivas para todos sus proyectos industriales localizados en México.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:8px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_DE429524_CFA2_54ED_41D6_99028F1F71CA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>Bofish</B></SPAN></SPAN></DIV></div>
 HTMLText_2A0E82FC_24F0_9B16_41AC_49889697C17B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>Cluster Industrial</B></SPAN></SPAN></DIV></div>
 HTMLText_D8160B56_C9A4_07F1_41C2_7AB29B5BD2BE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>Courtyard </B></SPAN><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display Light';"><B>by Marriot         </B></SPAN></SPAN></DIV></div>
 HTMLText_29A0C82D_3A24_6A74_41BE_D0C0713E4A8F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>Innova Inmobiliaria</B></SPAN></SPAN></DIV></div>
@@ -113,4 +117,5 @@ tour.name = 8° Foro de Sustentabilidad
 ## Ventana
 
 ### Título
+window_D960E19F_CFA6_AFDB_41C8_74A7F41CC87B.title = Bofish
 window_2E0C51CF_3A5C_8704_4154_5D51A31E14BA.title = TvCuatro
