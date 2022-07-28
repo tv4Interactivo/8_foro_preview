@@ -6,6 +6,13 @@
 PopupPDFBehaviour_1999F2B1_1622_B8FC_418A_1620EE0BC578.url = files/Agenda%20%20VIII%20Foro%20Internacional%20de%20Sustentabilidad%2029-05_es.pdf
 PopupPDFBehaviour_077468C7_1622_A8A4_4181_0DDD8711FF60.url = files/Agenda%20%20VIII%20Foro%20Internacional%20de%20Sustentabilidad%2029-05_es.pdf
 
+### URL
+LinkBehaviour_51949077_4513_B350_41CB_E091EC085AC2.source = https://www.caborcaboots.com/pages/historia-caborca
+PopupWebFrameBehaviour_56842220_4512_96F0_41B7_CBEA2BEB7FCF.url = //www.youtube.com/embed/3CwYe27BBVc
+PopupWebFrameBehaviour_53CAE5EC_450D_9D70_4180_F2EB2C5B3986.url = //www.youtube.com/embed/6XsMIorxwbM
+PopupWebFrameBehaviour_51C16F4B_450D_6EB0_41C5_1D6C2184E8D7.url = //www.youtube.com/embed/MYMo4Khz3WU
+PopupWebFrameBehaviour_51DA74F8_450F_B351_4181_DFAD35EC408E.url = //www.youtube.com/embed/QE8PCFF53Zs
+
 ## Hotspot
 
 ### Texto
@@ -31,7 +38,6 @@ photo_96200E80_9B5C_97AD_41E3_554021911D04.label = BOTAS-CABORCA-VAQUERA-CAFE_2_
 photo_96200E80_9B5C_97AD_41E3_554021911D04.label = BOTAS-CABORCA-VAQUERA-CAFE_2_-min_grande
 panorama_DBE85036_C9EB_EBA4_41E4_2244C7514E81.label = Intersección 1
 panorama_C2A0F899_CFD1_28D0_41BE_6A8EDCEB7D30.label = Intersección 2
-video_C8FC1A0C_DA79_EEC1_41E1_06A766FBC6DF.label = LTS
 album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD_2.label = MAA593AMERCIATAN01_1024x1024
 panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036.label = Stands 1
 panorama_B385E8D8_BF3E_D6BF_41E1_C88377D7680F.label = Stands 2
@@ -41,7 +47,6 @@ panorama_C29F2D8E_CFA6_57BD_41E3_8848C4BA804E.label = Stands 5
 panorama_D79A66F1_DA12_8AE1_41CC_EA153763C547.label = Stands 6
 panorama_D75A418F_DA15_8722_41E9_1E0C42AAF849.label = Stands 7
 album_A72DB173_BF42_5670_41CF_5909A643EBEA_0.label = amstel_prev
-video_1FC5620C_12A4_2236_4184_B53BCCF0B232.label = bofish_compressed
 album_C1AADAC4_D352_20C4_41E9_ECB4C657308B_0.label = cinturato_front
 album_A72DB173_BF42_5670_41CF_5909A643EBEA_1.label = heineken_prev
 album_A72DB173_BF42_5670_41CF_5909A643EBEA_2.label = heineken_products_preview
@@ -49,18 +54,9 @@ album_A72DB173_BF42_5670_41CF_5909A643EBEA_3.label = indio_prev
 album_C1AADAC4_D352_20C4_41E9_ECB4C657308B_1.label = pzero_front
 album_A72DB173_BF42_5670_41CF_5909A643EBEA_4.label = s_gold_prev
 album_A72DB173_BF42_5670_41CF_5909A643EBEA_5.label = s_rose_prev
-video_1F747F62_12A5_E2F2_419C_B50E341C7CA7.label = tv4_compressed2
 album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD.label = Álbum BOTAS-CABORCA
 album_A72DB173_BF42_5670_41CF_5909A643EBEA.label = Álbum Heineken
 album_C1AADAC4_D352_20C4_41E9_ECB4C657308B.label = Álbum Pirelli
-
-### Video
-videolevel_1CD79E65_12A4_22F7_4199_0BD7C4403965.url = media/video_1F747F62_12A5_E2F2_419C_B50E341C7CA7_es.mp4
-videolevel_1CD79E65_12A4_22F7_4199_0BD7C4403965.posterURL = media/video_1F747F62_12A5_E2F2_419C_B50E341C7CA7_poster_es.jpg
-videolevel_1CD93DE8_12A4_21FD_41A2_EA44274039EA.url = media/video_1FC5620C_12A4_2236_4184_B53BCCF0B232_es.mp4
-videolevel_1CD93DE8_12A4_21FD_41A2_EA44274039EA.posterURL = media/video_1FC5620C_12A4_2236_4184_B53BCCF0B232_poster_es.jpg
-videolevel_1CD7CE07_12A4_2233_41AA_A399766FB6E2.url = media/video_C8FC1A0C_DA79_EEC1_41E1_06A766FBC6DF_es.mp4
-videolevel_1CD7CE07_12A4_2233_41AA_A399766FB6E2.posterURL = media/video_C8FC1A0C_DA79_EEC1_41E1_06A766FBC6DF_poster_es.jpg
 
 ## Skin
 
@@ -128,6 +124,7 @@ tour.name = 8° Foro de Sustentabilidad
 ## Ventana
 
 ### Título
-window_D960E19F_CFA6_AFDB_41C8_74A7F41CC87B.title = Bofish
-window_FDD0649E_EDF8_FBA2_41E3_15ADC8AE4531.title = LTS
-window_05EC5D17_126E_DDE7_419F_7F5E8AC69ED7.title = TvCuatro
+window_51C6AF4A_450D_6EB0_41C0_8B4BA929EC80.title = Bofish
+window_53CC45EB_450D_9D70_41C6_2A98AFE7B97B.title = KPMG
+window_5682F220_4512_96F0_41D0_D43034D5980F.title = LTS
+window_51DDA4F8_450F_B351_41B8_77FAE6F03EAD.title = TvCuatro
