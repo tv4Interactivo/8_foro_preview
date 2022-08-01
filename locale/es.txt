@@ -8,10 +8,12 @@ PopupPDFBehaviour_077468C7_1622_A8A4_4181_0DDD8711FF60.url = files/Agenda%20%20V
 
 ### URL
 LinkBehaviour_51949077_4513_B350_41CB_E091EC085AC2.source = https://www.caborcaboots.com/pages/historia-caborca
+LinkBehaviour_4B1CFFC8_5A30_C96A_41B3_5CDFE8827C39.source = https://www.zerecointernational.com/
 PopupWebFrameBehaviour_56842220_4512_96F0_41B7_CBEA2BEB7FCF.url = //www.youtube.com/embed/3CwYe27BBVc
 PopupWebFrameBehaviour_53CAE5EC_450D_9D70_4180_F2EB2C5B3986.url = //www.youtube.com/embed/6XsMIorxwbM
 PopupWebFrameBehaviour_51C16F4B_450D_6EB0_41C5_1D6C2184E8D7.url = //www.youtube.com/embed/MYMo4Khz3WU
 PopupWebFrameBehaviour_51DA74F8_450F_B351_4181_DFAD35EC408E.url = //www.youtube.com/embed/QE8PCFF53Zs
+PopupWebFrameBehaviour_4A6F15AE_5A50_5926_41C9_7DC6B6CD6E29.url = //www.youtube.com/embed/U965uN4QN4g
 
 ## Hotspot
 
@@ -46,6 +48,13 @@ panorama_D4DB2861_D95E_3D08_41E0_5D2D31DD5F66.label = Stands 4
 panorama_C29F2D8E_CFA6_57BD_41E3_8848C4BA804E.label = Stands 5
 panorama_D79A66F1_DA12_8AE1_41CC_EA153763C547.label = Stands 6
 panorama_D75A418F_DA15_8722_41E9_1E0C42AAF849.label = Stands 7
+album_4D70E8C4_5A50_775A_41C0_75F754F46B46_0.label = Zereco_01
+album_4D70E8C4_5A50_775A_41C0_75F754F46B46_1.label = Zereco_02
+album_4D70E8C4_5A50_775A_41C0_75F754F46B46_2.label = Zereco_03
+album_4D70E8C4_5A50_775A_41C0_75F754F46B46_3.label = Zereco_04
+album_4D70E8C4_5A50_775A_41C0_75F754F46B46_4.label = Zereco_05
+album_4D70E8C4_5A50_775A_41C0_75F754F46B46_5.label = Zereco_06
+album_4D70E8C4_5A50_775A_41C0_75F754F46B46_6.label = Zereco_07
 album_A72DB173_BF42_5670_41CF_5909A643EBEA_0.label = amstel_prev
 album_C1AADAC4_D352_20C4_41E9_ECB4C657308B_0.label = cinturato_front
 album_A72DB173_BF42_5670_41CF_5909A643EBEA_1.label = heineken_prev
@@ -57,6 +66,7 @@ album_A72DB173_BF42_5670_41CF_5909A643EBEA_5.label = s_rose_prev
 album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD.label = Álbum BOTAS-CABORCA
 album_A72DB173_BF42_5670_41CF_5909A643EBEA.label = Álbum Heineken
 album_C1AADAC4_D352_20C4_41E9_ECB4C657308B.label = Álbum Pirelli
+album_4D70E8C4_5A50_775A_41C0_75F754F46B46.label = Álbum Zereco
 
 ## Skin
 
@@ -127,6 +137,8 @@ tour.name = 8° Foro de Sustentabilidad
 
 ### Título
 window_51C6AF4A_450D_6EB0_41C0_8B4BA929EC80.title = Bofish
+window_4A6285AD_5A50_592A_41A1_6968A5A3CA2C.title = Grupo Caborca
 window_53CC45EB_450D_9D70_41C6_2A98AFE7B97B.title = KPMG
 window_5682F220_4512_96F0_41D0_D43034D5980F.title = LTS
 window_51DDA4F8_450F_B351_41B8_77FAE6F03EAD.title = TvCuatro
+window_42558B28_5A6F_C929_41D4_CD22A0B215FF.title = Zereco

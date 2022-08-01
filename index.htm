@@ -6,21 +6,21 @@
     <meta name="viewport" id="metaViewport" content="user-scalable=no, initial-scale=1, width=device-width, viewport-fit=cover" data-tdv-general-scale="0.5"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <script src="lib/tdvplayer.js?v=1659107939892"></script>
-    <link rel="preload" href="locale/es.txt?v=1659107939892" as="fetch" crossorigin="anonymous"/>
-	<link rel="preload" href="script.js?v=1659107939892" as="script"/>
-	<link rel="preload" href="media/panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036_0/r/2/0_0.jpg?v=1659107939892" as="image"/>
-	<link rel="preload" href="media/panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036_0/l/2/0_0.jpg?v=1659107939892" as="image"/>
-	<link rel="preload" href="media/panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036_0/u/2/0_0.jpg?v=1659107939892" as="image"/>
-	<link rel="preload" href="media/panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036_0/d/2/0_0.jpg?v=1659107939892" as="image"/>
-	<link rel="preload" href="media/panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036_0/f/2/0_0.jpg?v=1659107939892" as="image"/>
-	<link rel="preload" href="media/panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036_0/b/2/0_0.jpg?v=1659107939892" as="image"/>
+    <script src="lib/tdvplayer.js?v=1659373980412"></script>
+    <link rel="preload" href="locale/es.txt?v=1659373980412" as="fetch" crossorigin="anonymous"/>
+	<link rel="preload" href="script.js?v=1659373980412" as="script"/>
+	<link rel="preload" href="media/panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036_0/r/2/0_0.jpg?v=1659373980412" as="image"/>
+	<link rel="preload" href="media/panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036_0/l/2/0_0.jpg?v=1659373980412" as="image"/>
+	<link rel="preload" href="media/panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036_0/u/2/0_0.jpg?v=1659373980412" as="image"/>
+	<link rel="preload" href="media/panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036_0/d/2/0_0.jpg?v=1659373980412" as="image"/>
+	<link rel="preload" href="media/panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036_0/f/2/0_0.jpg?v=1659373980412" as="image"/>
+	<link rel="preload" href="media/panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036_0/b/2/0_0.jpg?v=1659373980412" as="image"/>
 	<meta name="description" content="Virtual Tour"/>
 	<meta name="theme-color" content="#00D2BC"/>
-    <script src="script.js?v=1659107939892"></script>
+    <script src="script.js?v=1659373980412"></script>
     <script type="text/javascript">
         var tour;
-        var devicesUrl = {"general":"script_general.js?v=1659107939892","mobile":{"portrait":"script_mobile.js?v=1659107939892","landscape":"script_general.js?v=1659107939892"}};
+        var devicesUrl = {"mobile":{"portrait":"script_mobile.js?v=1659373980412","landscape":"script_general.js?v=1659373980412"},"general":"script_general.js?v=1659373980412"};
 
         (function()
         {
@@ -63,9 +63,9 @@
 
             var settings = new TDV.PlayerSettings();
             settings.set(TDV.PlayerSettings.CONTAINER, document.getElementById('viewer'));
-            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1659107939892');
-            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1659107939892');
-            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1659107939892');
+            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1659373980412');
+            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1659373980412');
+            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1659373980412');
 
             tour = new TDV.Tour(settings, devicesUrl);
             tour.bind(TDV.Tour.EVENT_TOUR_INITIALIZED, onVirtualTourInit);
@@ -332,7 +332,7 @@
         #viewer { z-index:1; }
         #preloadContainer { z-index:2; opacity:0; background-color:rgba(0,210,188,1); transition: opacity 0.5s; -webkit-transition: opacity 0.5s; -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;}
     </style>
-    <link rel="stylesheet" href="fonts.css?v=1659107939892">
+    <link rel="stylesheet" href="fonts.css?v=1659373980412">
 </head>
 <body>
     <div id="preloadContainer" class="fill-viewport"><div style="z-index: 4; position: absolute; background-size: cover; background-image: url('loading/HTMLImage_36D4EC29_3AE2_6B56_41CD_60FB429E2399.jpg'); background-repeat: no-repeat; background-position: center center; overflow: hidden; right: 0%; bottom: 0%; width: 100.00%; height: 100.00%" ></div><div style="z-index: 5; position: absolute; left: 0%; bottom: 0.35%; width: 100.00%; height: 34.15%" ><div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:4.860088365243005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="display:inline-block; letter-spacing:0.15vmin; white-space:pre-wrap;color:#ffffff;font-size:4.86vmin;font-family:'Red Hat Display ExtraBold';">"Por un mundo educado, competitivo y limpio"</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.2400589101620025vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.24vmin;font-family:'Red Hat Display SemiBold';">Da click para continuar...</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:4.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div></div></div>
