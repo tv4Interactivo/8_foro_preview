@@ -37,7 +37,7 @@ HotspotPanoramaOverlayTextImage_B4F7923F_A290_458C_41B2_9F6A60613842.text = Haz 
 HotspotPanoramaOverlayTextImage_DA747943_C9E2_4F64_41D1_A50F178EB264.text = Hotel sede
 
 ### URL
-overlay_DD80F706_D3B3_2B39_41E7_04B904942646.url = https://www.conceptoweb-studio.com/radio/video/tv4/
+overlay_DD80F706_D3B3_2B39_41E7_04B904942646.url = https://conceptoweb-studio.com/radio/video/tv4enlace/
 
 ## Media
 
