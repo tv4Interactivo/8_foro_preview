@@ -8,8 +8,6 @@ PopupPDFBehaviour_B65AA363_A271_CBB4_41E1_FB0C1D41991A.url = files/Agenda%20(ago
 
 ### URL
 LinkBehaviour_68F97F48_7F20_F72B_41D5_29876D748CFA.source = https://corporate.pirelli.com/corporate/en-ww/sustainability/sustainability?_ga=2.27356156.1165841904.1614005597-1965833377.1576679518
-LinkBehaviour_B29B5BDC_A240_6420_41CA_E21D21BFBC0A.source = https://foro-internacional-sustentabilidad.com/talleres/
-LinkBehaviour_B9724D13_A218_3567_41D6_3AB7B5186F39.source = https://foro-internacional-sustentabilidad.com/talleres/
 LinkBehaviour_B3021BD4_A347_F55C_41C9_45B30601F452.source = https://heinekenmexico.com/
 LinkBehaviour_B5C8F01F_A290_458C_4197_2B117DA1B410.source = https://t.me/+eSW3ZFUweyVhMGVh
 LinkBehaviour_51949077_4513_B350_41CB_E091EC085AC2.source = https://www.caborcaboots.com/pages/historia-caborca
@@ -126,10 +124,8 @@ Button_0A094028_048D_C780_4192_053E1B980866.label = Auditorio
 Button_0A094028_048D_C780_4192_053E1B980866_mobile.label = Auditorio
 Button_CBD62AE9_D962_3D18_41E2_39E0AF47038F.label = Instrucciones
 Button_0B890EBB_048A_5880_4183_E9C5610B789E.label = Navegación
-Button_088FFE0B_0487_BB87_4149_E53DC09943CC.label = Programa
 Button_088FFE0B_0487_BB87_4149_E53DC09943CC_mobile.label = Programa
-Button_B89627D3_A228_F4E7_41BB_9C9F09607EF4.label = Talleres
-Button_B2F3C2A3_A240_E467_41E0_0582ADDDD00D_mobile.label = Talleres
+Button_088FFE0B_0487_BB87_4149_E53DC09943CC.label = Programa
 
 ### Imágen
 Image_179D8AC7_046F_0E67_414A_CA6ED15F42DE.url = skin/Image_179D8AC7_046F_0E67_414A_CA6ED15F42DE_es.png
